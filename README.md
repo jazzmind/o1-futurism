@@ -1,5 +1,5 @@
 # o1-futurism
-Asking O1 to think about the future
+![OpenAI gpt-o1-preview models scenarios about the future](https://repository-images.githubusercontent.com/858226769/bd48027d-220f-463e-936f-bc1684f5db36)
 
 In this repository I am exploring OpenAI's o1-preview's ability to extrapolate future scenarios for the world. I started with the following prompt:
 
