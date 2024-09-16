@@ -3,9 +3,8 @@
 
 In this repository I am exploring OpenAI's o1-preview's ability to extrapolate future scenarios for the world. I started with the following prompt:
 
-```
-What economic and social structures can practically work in a world where AI can do most intellectual work and robots + AI can do most physical work? What will people do to find meaningful purpose? Consider the geopolitics of the entire world - not just countries like America and Europe. Present your answer as a plausible yet fictional forward looking history of the next 50-100 years in the form of an innovative sci-fi novella.
-```
+> What economic and social structures can practically work in a world where AI can do most intellectual work and robots + AI can do most physical work? What will people do to find meaningful purpose? Consider the geopolitics of the entire world - not just countries like America and Europe. Present your answer as a plausible yet fictional forward looking history of the next 50-100 years in the form of an innovative sci-fi novella.
+
 What followed was an interesting set of future scenarios, which are linked here:
 
 *Scenario 1:* AI default: Utopian fantasy. This is likely the result of some instructions/training that OpenAI has built into its models to ensure AI doesn't return dystopian predictions all the time.
