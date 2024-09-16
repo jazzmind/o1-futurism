@@ -1,0 +1,1 @@
+Try again, in a longer format that takes more time to explore each transition. Also be realistic about humanity. There is no chance for unity as there is no precedent. Consider the inevitable conflicts that will arise but try to envision a future that is neither overly optimistic nor dystopian. 

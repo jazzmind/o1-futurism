@@ -1,0 +1,1 @@
+Considering all of the scenarios we just worked through, which of these are the most and least likely to occur? Now, given all that you now know from modeling these scenarios, history and current events create what you think is the most plausible scenario for the future. Write the most robust narrative around this scenario that you can, putting in as many details as possible.
