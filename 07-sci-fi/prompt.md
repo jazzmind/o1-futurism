@@ -1,0 +1,1 @@
+Starting at the "Tipping Point" period in the above narrative, write a 50+ page sci-fi thriller in the style of Neal Stephenson that uses the scenario as background but tells a story of an unlikely hero who plays a part in driving society through "the great realignment".
